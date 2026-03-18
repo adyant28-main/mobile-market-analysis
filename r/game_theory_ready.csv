@@ -1,0 +1,6 @@
+Brand,discount_group,models,avg_discount,avg_price,avg_rating
+SAMSUNG,Aggressive,31,41.56,22421.26,4.29
+SAMSUNG,Low,495,1.16,22197.16,4.2
+SAMSUNG,Moderate,124,17.47,39452.96,4.25
+XIAOMI,Low,158,1.38,16238.78,4.31
+XIAOMI,Moderate,38,15.66,19426.66,4.29
